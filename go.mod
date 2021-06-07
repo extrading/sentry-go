@@ -1,4 +1,4 @@
-module github.com/getsentry/sentry-go
+module github.com/extrading/sentry-go
 
 go 1.14
 

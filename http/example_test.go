@@ -3,12 +3,12 @@ package sentryhttp_test
 import (
 	"net/http"
 
-	"github.com/getsentry/sentry-go"
-	sentryhttp "github.com/getsentry/sentry-go/http"
+	"github.com/extrading/sentry-go"
+	sentryhttp "github.com/extrading/sentry-go/http"
 )
 
 // For a longer and executable example, see
-// https://github.com/getsentry/sentry-go/tree/master/example/http.
+// https://github.com/extrading/sentry-go/tree/master/example/http.
 func Example() {
 	// Initialize the Sentry SDK once in the main function.
 	// sentry.Init(...)

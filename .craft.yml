@@ -15,4 +15,4 @@ targets:
   - name: registry
     type: sdk
     config:
-      canonical: "github:getsentry/sentry-go"
+      canonical: "github:extrading/sentry-go"
