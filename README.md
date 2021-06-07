@@ -1,11 +1,8 @@
-<p align="center">
-  <a href="https://sentry.io" target="_blank" align="center">
-    <img src="https://sentry-brand.storage.googleapis.com/sentry-logo-black.png" width="280">
-  </a>
-  <br />
-</p>
 
-# Official Sentry SDK for Go
+
+
+# Fork of Official Sentry SDK for Go
+## without any framework specific dependency
 
 [![Build Status](https://github.com/extrading/sentry-go/workflows/go-workflow/badge.svg)](https://github.com/extrading/sentry-go/actions?query=workflow%3Ago-workflow)
 [![Go Report Card](https://goreportcard.com/badge/github.com/extrading/sentry-go)](https://goreportcard.com/report/github.com/extrading/sentry-go)
